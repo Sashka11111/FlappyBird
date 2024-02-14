@@ -1,0 +1,12 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Äî÷˜Ú1
+G	java:S106"+Replace this use of System.out by a logger.(÷ù—¬8Šõ’˜Ú1
+m	java:S128."LEnd this switch case with an unconditional break, return or throw statement.(£­¡Ëÿÿÿÿÿ8‹õ’˜Ú1
+G	java:S106/"+Replace this use of System.out by a logger.(ú³»¾8Œõ’˜Ú1
+L	java:S1062"+Replace this use of System.out by a logger.(°“£§ÿÿÿÿÿ8Œõ’˜Ú1
+L	java:S1065"+Replace this use of System.out by a logger.(â¿Êáÿÿÿÿÿ8û¥—˜Ú1
+G	java:S106:"+Replace this use of System.out by a logger.(¹«Ãö8û¥—˜Ú1
+L	java:S106>"+Replace this use of System.out by a logger.(¸Ê¥üÿÿÿÿ8ï÷˜Ú1
+G	java:S106C"+Replace this use of System.out by a logger.(ø´×£8ï÷˜Ú1
+F	java:S106\"+Replace this use of System.out by a logger.(á…äi8ï÷˜Ú1
+G	java:S106]"+Replace this use of System.out by a logger.(İ«Ûà8Í·œ™Ú1
